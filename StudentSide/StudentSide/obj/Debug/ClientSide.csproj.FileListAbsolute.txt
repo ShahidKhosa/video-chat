@@ -1,0 +1,11 @@
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\bin\Debug\StudentSide.exe
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\bin\Debug\StudentSide.pdb
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\obj\Debug\StudentSide.SignIn.resources
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\obj\Debug\StudentSide.SignUp.resources
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\obj\Debug\StudentSide.VCES.resources
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\obj\Debug\StudentSide.Properties.Resources.resources
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\obj\Debug\StudentSide.VideoWindow.resources
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\obj\Debug\StudentSide.exe
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\obj\Debug\StudentSide.pdb
+C:\Users\TT\Desktop\Haseeb Final\StudentSide\StudentSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache

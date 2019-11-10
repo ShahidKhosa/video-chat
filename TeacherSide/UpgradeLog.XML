@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Video_Conference">
+</Property><Property Name="Solution File" Value="F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Video_Conference.sln">
+</Property><Property Name="User Options File" Value="F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Video_Conference.suo">
+</Property><Property Name="Date" Value="Tuesday, October 19, 2010">
+</Property><Property Name="Time" Value="12:43 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Video_Conference.sln" Description="File successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\Video_Conference.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Video_Conference.suo" Description="File successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\Video_Conference.suo">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="Video_Conference.csproj" Description="Project file successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\Video_Conference.csproj">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="Video_Conference.csproj.user" Description="Project user file successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\Video_Conference.csproj.user">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="AssemblyInfo.cs" Description="File successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="Form1.cs" Description="File successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="Resources\icony.JPG" Description="File successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\Resources\icony.JPG">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="Resources\ip.jpg" Description="File successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\Resources\ip.jpg">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="App.ico" Description="File successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="Form1.resx" Description="File successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="Properties\Resources.resx" Description="File successfully backed up as F:\NUML\4th Semester\Work Shop\Downloads\Video_Voice_Conferencing\Peer_Video_Confere\Video_Conference Peer1\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="Video_Conference.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Video_Conference" Source="Video_Conference.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Video_Conference.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Video_Conference.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Video_Conference" Source="Video_Conference.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,677 @@
+  .feed
+  {
+          font-size: 11px;
+  }
+  .informal
+  {
+          /*font-size: 11px;*/
+  }  
+  div.predictad {
+      position:absolute;
+      z-index:3999999 !important;
+      background-color:white !important;
+      margin:0px;
+      padding:0px;
+      line-height:13px;
+      border:none !important;
+      /*
+      position:relative;clear:both;
+    */
+    }
+    div.predictad ul {
+      list-style-type:none !important; 
+      background-image:none !important;
+      z-index:3999999 !important; 
+      margin:0px !important;
+      padding:0px !important; 
+      
+      
+      width:auto;
+      font-size: 12px;
+      line-height:13px;
+      font-family:arial, verdana, sans-serif; /* ADDED */
+      background-color:inherit;
+      list-style-image :none !important;   
+      
+      width:100% !important;
+    }
+    div.predictad ul.titles
+    {
+        border-top:2px dotted #e3e3e3;
+        font-size: 12px;
+        text-align:left !important;
+        font-family:arial, verdana, sans-serif; /* ADDED */
+        
+        
+
+    }
+	div.predictad ul li A:hover {text-decoration: underline; color: black; font-size:11px;}
+	div.predictad ul li A:link {text-decoration: underline; font-size:11px;}
+	
+	/*div.predictad ul li.selected A:link {text-decoration: underline; color: white; font-size:11px;}*/
+     
+       
+
+    div.predictad ul li 
+    {
+      padding-left : 2px !important;
+      float:none !important; 
+      list-style-type:none !important; 
+      background-image:none; 
+      display:block !important; 
+      margin:0 !important;
+      padding:2px !important;
+      color:black;
+      cursor:pointer;
+      text-indent:0px;
+      
+      line-height: 100% !important;
+      /* link4*/
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px !important; 
+      padding-top: 2px;
+      padding-right: 2px;
+      padding-bottom: 2px;
+      list-style-image :none !important;    
+    }
+    /* selected color */
+    div.predictad ul li b {
+        font-weight:normal !important;
+        color: #006699;
+        
+    }
+    
+    
+    div.predictad ul li.ad {
+      list-style-type:none !important;
+      visibility:visible !important;
+      display:block !important;
+      margin:0 !important;
+      height:auto !important;
+      padding:2px 0px 2px 2px !important;
+      color:black !important;
+      cursor:pointer;
+      /*background-color: #e5ecf9;
+      color: #006699;*/
+      border-top:solid 1px #e5ecf9 !important;
+      /*width:99% !important;*/
+      /*height:13px;*/
+      /*font-weight: bold;*/
+    }   
+
+    div.predictad ul li.simplygen 
+    {
+      text-align:center;
+      list-style-type:none;
+      display:block;
+      margin:0;
+      padding:2px;
+      color:black;
+      cursor:pointer;
+      background-color: #fff;
+      font-weight: bold;
+    }        
+    div.predictad ul li.ad2 {
+      list-style-type:none;
+      display:block;
+      margin:0;
+      padding:2px;
+      color:black;
+      cursor:pointer;
+      background-color: #fdd;
+      font-weight: bold;
+    }      
+    
+.predictadSeparator
+{
+    background-image: url(http://cdn1.predictad.com/images/skins/mclassic/dotLi13bg.png) !important;background-repeat: repeat-x !important;
+    text-align:center !important;
+    cursor:default !important;
+    /*height:15px;*/
+}
+.predictadSeparatorWhite
+{
+    padding-left:2px;
+    /*font-size: 9pt; */
+    color: #999999; font-family: Arial; 
+    padding-right:2px;
+    background-color:White;
+    cursor:default !important;
+}
+    
+.tdSeperate
+{
+    border-top:1px solid #888;
+    border-spacing:3px;
+    font-size: 11px;
+    padding-left:3px;
+    padding-right:3px;
+}
+.tdSeperate a:hover 
+{
+  text-decoration: underline;
+  color: black;
+  background: black;
+} 
+.tdSeperate a:link
+{
+    text-decoration: none;
+    color:#666666
+    
+    
+}
+.tdSeperate a:visited
+{
+    text-decoration: none;
+    color:#666666
+}
+
+.mpaging a:link{
+/*  position: relative;
+  display: block;
+  float: right;*/
+  /*width: 34px;*/
+  /*direction: rtl;*/
+  /*top: -3px;*/
+  text-decoration: none;
+  padding-bottom:3px;
+  font-size: 11px;
+  color: #666666;
+  
+}
+.mpaging a:hover 
+{
+  text-decoration: underline;
+  color: #008d00;
+  font-size: 11px;
+  background: black;
+}
+
+.ppTD
+{
+    background-color: white !important;
+    background-image:none !important; 
+    vertical-align:middle;
+}
+
+#ppTD img
+{
+    border: none !important;
+    margin:0em 0 0 0em;
+}
+
+.pp a
+{
+    background-color: white !important;
+}
+.pp a:link
+{
+    color: #ffffff;
+    display: block;
+    height: 16px;
+    float: right;
+    border:none !important; 
+    padding:0px 0px 0px 0px !important; 
+    background-color: white !important;
+    /*background-color: transparent;*/
+    background-image:none !important; 
+    background-repeat: repeat-x;
+    /*background-attachment: scroll;*/
+}
+.pp a:visited
+{
+    color: #ffffff;
+    display: block;
+    height: 16px;
+    float: right;
+    border:none !important; 
+    padding:0px 0px 0px 0px !important; 
+    /*background-color: transparent;*/
+    background-image:none !important;
+    background-repeat:no-repeat;
+    /*background-attachment: scroll;*/
+}
+.pp a:hover
+{
+    color: #ffffff;
+    display: block;
+    /*height: 16px;*/
+    float: right;
+    border:none !important; 
+    padding:0px 0px 0px 0px !important; 
+    /*background-color: transparent;*/
+    background-color: white !important;
+    background-image:none !important; 
+    background-repeat:no-repeat;
+    /*background-attachment: scroll;*/
+}
+
+.mlink {
+/*  position: relative;
+  display: block;
+  float: right;*/
+  /*width: 34px;*/
+  /*direction: rtl;*/
+  /*top: -3px;*/
+  text-decoration: none;
+  padding-bottom:3px;
+  font-size: 11px;
+  color: #111111;
+  
+}
+.mlink a:link{
+/*  position: relative;
+  display: block;
+  float: right;*/
+  /*width: 34px;*/
+  /*direction: rtl;*/
+  /*top: -3px;*/
+  text-decoration: none;
+  padding-bottom:3px;
+  font-size: 11px;
+  /*color: #666666;*/
+  color:Black
+  
+}
+.mlink a:hover 
+{
+  text-decoration: underline;
+  /*color: #008d00;*/
+  font-size: 11px;
+}
+
+
+
+
+
+.predictad_help
+{
+    /*display: none;*/
+    /*border:solid 2px black;*/
+    text-align: left;
+    padding-top: 4px;
+    padding-right: 0pt;
+    padding-bottom: 4px;
+    /*padding-left: 0pt;*/
+    padding-left: 2px;
+    font-size: 11px;
+    background-image: url(http://www.predictad.com/images/bg/note.gif);	border-top: solid 1px #D7C668;border-left: solid 1px #D7C668;	border-bottom: solid 1px #9B8509;border-right: solid 1px #9B8509;background-repeat: repeat-x;
+}
+
+
+.rightChoices 
+{
+    direction:rtl;
+    text-align:right;
+/*    background-color:#f4f7fa;
+      list-style-image:none;
+      list-style:none;    */
+      list-style-type:none !important; 
+      background-image:none;
+      z-index:3999999 !important; 
+      margin:0px;
+      padding:0px;
+      width:auto;
+      font-size: 12px;
+      line-height:13px;
+      font-family:arial, verdana, sans-serif; /* ADDED */
+      
+}
+.leftChoices 
+{
+    direction:ltr;
+    text-align:left;
+    /*background-color:#f4f7fa;*/
+     list-style-type:none !important; 
+      background-image:none;
+      z-index:3999999 !important; 
+      margin:0px !important; 
+      padding:0px !important;
+      width:auto;
+      font-size: 12px;
+      line-height:13px;
+      font-family:arial, verdana, sans-serif; /* ADDED */
+      
+}
+.channelTitle
+{
+    padding-left:2px;font-size: 9pt; color: #999999; font-family: Arial; text-align:right;
+    padding-right:2px;
+    background-color:White;
+    direction:rtl;
+    cursor:default !important;
+}
+.channelNavlink {
+  text-decoration: none;
+  padding-bottom:3px;
+  font-size: 11px;
+  text-align:right;
+  font-size: 10pt; color: #b1c86e; font-family: Arial; background-color: #021500;
+  vertical-align:top;
+}
+.channelNavlink a:link{
+  text-decoration: none;
+  padding-bottom:3px;
+  font-size: 11px;
+
+  color:Black
+  
+}
+.channelNavlink a:hover 
+{
+  text-decoration: underline;
+  font-size: 11px;
+}
+
+.simplyad {
+      display:block;
+      margin:0;
+      padding:2px;
+      padding-bottom:3px;
+      color:black;
+      cursor:pointer;
+      background-color: #e5ecf9;
+      font-size:11px;
+      font-family:arial, verdana, sans-serif; /* ADDED */
+      /*font-weight: bold;*/
+}    
+
+.stockSym {
+      width:60px !important;
+}
+
+
+img.pPreview 
+{
+width: 73px;
+height: 54px;
+border:solid 1px black;
+top: 1px;
+margin-bottom: 3px;
+text-decoration: none;
+}
+
+.pPreview:hover 
+
+{
+
+top: 0pt;
+
+}
+
+
+.pVideoTitle 
+{
+color: #0169a0;
+text-decoration: underline;
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+font-size: 10px;
+/*width: 73px;*/
+width: 150px;
+height: 15px;
+/*text-align: center;*/
+cursor: pointer;
+}
+
+.pVideoDesc
+{
+/*color: #0169a0;*/
+text-decoration: underline;
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+font-size: 9px;
+/*width: 73px;*/
+width: 150px;
+height: 35px;
+/*text-align: center;*/
+cursor: pointer;
+}
+
+
+a.la 
+{
+    color: #e5e5e5;
+    /*background-color: white !important;*/
+    /*height: 16px;*/
+    font-size:10px;
+    text-decoration:none;
+}
+a.la:link
+{
+    color: white;
+    display: block;
+    /*height: 16px;*/
+    width:150px;
+    font-size:10px;
+    border:none !important; 
+    padding:0px 0px 0px 0px !important; 
+    background-color: white !important;
+    background-image:none !important; 
+    background-repeat: repeat-x;
+    text-decoration:none;
+}
+a.la:visited
+{
+    /*color : black;*/
+    display: block;
+    /*height: 16px;*/
+    font-size:10px;
+    border:none !important; 
+    padding:0px 0px 0px 0px !important; 
+    background-image:none !important;
+    background-repeat:no-repeat;
+    text-decoration:none;
+}
+a.la:hover
+{
+    color: black;
+    display: block;
+    font-size:10px;
+    /*height: 16px;*/
+    border:none !important; 
+    padding:0px 0px 0px 0px !important; 
+    background-color: #e5e5e5 !important;
+    background-color: white !important;
+    background-image:none !important; 
+    background-repeat:no-repeat;
+    text-decoration:none;
+}
+
+
+   /*ad*/
+    .predictTitle
+    {
+        color:Blue;
+        text-decoration:underline;
+        width:99%;
+    }
+    .predictDesc
+    {
+        
+    }    
+    /*title for news,video*/
+     div.predictad ul li.keywords {
+      list-style-type:none;
+      display:block;
+      margin:0;
+      padding:2px;
+      color:black;
+      cursor:pointer;
+      border-bottom:dashed 1px black;
+    }     
+    /*video*/
+.pVideoRowDiv
+{
+    width:100%; text-align:center;
+}
+.pVideoElm
+{
+    padding:5px;float:left;width:110px;
+}
+.pvVideoTitle 
+{
+    /*color: #0169a0;*/
+    text-decoration: underline;
+    font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    width: 110px;
+    height: 15px;
+    cursor: pointer;
+}
+
+img.pvPreview 
+{
+    width: 80px;
+    height: 59px;
+    top: 1px;
+    margin-bottom: 3px;
+    text-decoration: none;
+    border:0px;
+    cursor: pointer;
+}
+.pvPreview:hover 
+{
+    top: 0pt;
+}
+
+/* ------ tooltip -------- */
+a.p_tooltip{
+    position:relative; 
+    z-index:24; 
+    text-decoration:none !important;
+    color:Black !important;
+}
+
+a.p_tooltip:hover{z-index:25; 
+                 text-decoration:none;
+             }
+
+a.p_tooltip span
+{
+    text-decoration:none !important;
+    display: none}
+
+a.p_tooltip:hover span{ 
+    display:block;
+    position:absolute;
+    top:20px; left:200px;
+    width:15em;
+    background: dodgerblue;
+    font: 11px Arial, Helvetica, sans-serif;
+    padding: 3px;
+    color:White;
+    border:solid 2px  #0F6788;
+    text-align: left;
+}    
+
+ #autocompleteTeaser
+    {
+        direction: ltr;
+        font-family: lucida grande ,tahoma,verdana,arial,sans-serif !important;
+        font-weight: normal;
+        font-size: 12px !important;
+        text-align: left;
+        vertical-align:middle;
+        color: #333333;
+        background-color:#ffffe1;
+        width: 100%;
+        height: 30px !important;
+        z-index:9999999;
+        position: fixed !important;
+        position:absolute;
+        left: 0px !important;
+        top:0px !important;
+        padding: 0 !important;
+        line-height: 24px !important;
+        border:solid 2px #9d9d9d !important;
+        /*position: fixed !important;*/
+
+    }
+    
+    /* pop_close*/
+#blanket {
+   background-color:#111;
+   opacity: 0.50;
+   filter:alpha(opacity=50);
+   -moz-opacity:0.5;
+   -khtml-opacity: 0.5;
+   
+   position:absolute;
+   z-index: 9000001; 
+   top:0px;
+   left:0px;
+   width:100%;
+}
+#ac_closingPopUpDiv {
+	position:absolute;
+	background-color:white;
+	width:500px;
+	height:120px;
+	z-index: 90000002;
+}
+#ac_PartnerPopUpDiv {
+	    position:absolute;
+	    background-color:white;
+	    width:462px;
+	    height:313px;
+	    z-index: 90000002; 
+    }
+#ac_FullSettingsPopUpDiv {
+	    position:absolute;
+	    background-color:white;
+	    width:462px;
+	    height:360px;
+	    z-index: 90000002; 
+    }    
+    
+a.predict_button {
+    background: transparent url('http://cdn1.predictad.com/images/acpro/bg_button_a.gif') no-repeat scroll top right;
+    color: #444;
+    display: block;
+    float: left;
+    font: normal 12px arial, sans-serif;
+    height: 24px;
+    margin-right: 6px;
+    padding-right: 18px; /* sliding doors padding */
+    text-decoration: none;
+}
+
+a.predict_button span {
+    background: transparent url('http://cdn1.predictad.com/images/acpro/bg_button_span.gif') no-repeat;
+    display: block;
+    line-height: 14px;
+    padding: 5px 0 5px 18px;
+} 
+        
+a.predict_button:active {
+    background-position: bottom right;
+    color: #000;
+    outline: none; /* hide dotted outline in Firefox */
+}
+
+a.predict_button:active span {
+    background-position: bottom left;
+    padding: 6px 0 4px 18px; /* push text down 1px */
+} 
+/*end sexy*/    
+
+/*quick links*/
+.quickLinks a:hover { 
+    background-color: transparent; 
+    text-decoration: none;
+}
+.quickLinks A:link
+{
+    COLOR: #0033cc;
+    text-decoration: none !important;
+}
+.quickLinks A[Disabled]:hover
+{
+    text-decoration:none;
+}
+.quickLinks A:visited
+{
+    color: #0033cc;
+    text-decoration: none !important;
+}

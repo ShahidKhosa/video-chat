@@ -1,0 +1,12 @@
+{var dz=document;
+dz.writeln("<script language=\"javascript\">");
+dz.writeln("var width='728';");
+dz.writeln("var height='90';");
+dz.writeln("var swf_path='http://cdn.fastclick.net/fastclick.net/cid205870/sc10_728x90_1009.swf';");
+dz.writeln("var img_path='http://cdn.fastclick.net/fastclick.net/cid205870/sc10_728x90_1009.jpg';");
+dz.writeln("var click_url='http://media.fastclick.net/w/click.here?cid=253486&mid=468681&m=1&sid=24280&c=0&tp=5';");
+dz.writeln("var click_url2='http://media.fastclick.net/w/click.here?cid=253486&mid=468681&m=1&sid=24280&c=0&tp=5';");
+dz.writeln("var clickTag='?clickTAG='");
+dz.writeln("var bcolor = '';");
+dz.writeln("<\/script>");
+dz.writeln("<script src=\"http://cdn.fastclick.net/fastclick.net/cid51376/v8flash.js\"><\/script>");}

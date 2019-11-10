@@ -1,0 +1,86 @@
+F:\NUML\4th Semester\Work Shop\TryBroadcost\Video_Conference Peer1\bin\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\TryBroadcost\Video_Conference Peer1\bin\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\TryBroadcost\Video_Conference Peer1\obj\Debug\ResolveAssemblyReference.cache
+F:\NUML\4th Semester\Work Shop\TryBroadcost\Video_Conference Peer1\obj\Debug\Video_Conference.Properties.Resources.resources
+F:\NUML\4th Semester\Work Shop\TryBroadcost\Video_Conference Peer1\obj\Debug\TeacherSide.csproj.GenerateResource.Cache
+F:\NUML\4th Semester\Work Shop\TryBroadcost\Video_Conference Peer1\obj\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\TryBroadcost\Video_Conference Peer1\obj\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\TryBroadcost\Video_Conference Peer1\obj\Debug\Video_Conference.TeacherSide.resources
+F:\NUML\4th Semester\Work Shop\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\Haseeb Final\TeacherSide\obj\Debug\ResolveAssemblyReference.cache
+F:\NUML\4th Semester\Work Shop\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.TeacherSide.resources
+F:\NUML\4th Semester\Work Shop\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.Properties.Resources.resources
+F:\NUML\4th Semester\Work Shop\Haseeb Final\TeacherSide\obj\Debug\TeacherSide.csproj.GenerateResource.Cache
+F:\NUML\4th Semester\Work Shop\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\Hafiz Final\TeacherSide\obj\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\Hafiz Final\TeacherSide\obj\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\Hafiz Final\TeacherSide\bin\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\Hafiz Final\TeacherSide\bin\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\Hafiz Final\TeacherSide\obj\Debug\ResolveAssemblyReference.cache
+F:\NUML\4th Semester\Work Shop\Hafiz Final\TeacherSide\obj\Debug\Video_Conference.TeacherSide.resources
+F:\NUML\4th Semester\Work Shop\Hafiz Final\TeacherSide\obj\Debug\Video_Conference.Properties.Resources.resources
+F:\NUML\4th Semester\Work Shop\Hafiz Final\TeacherSide\obj\Debug\TeacherSide.csproj.GenerateResource.Cache
+D:\Haseeb's Final Project\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.exe
+D:\Haseeb's Final Project\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.pdb
+D:\Haseeb's Final Project\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.exe
+D:\Haseeb's Final Project\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.pdb
+D:\Haseeb's Final Project\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\ResolveAssemblyReference.cache
+D:\Haseeb's Final Project\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.TeacherSide.resources
+D:\Haseeb's Final Project\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.Properties.Resources.resources
+D:\Haseeb's Final Project\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\TeacherSide.csproj.GenerateResource.Cache
+F:\NUML\4th Semester\Work Shop\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\ResolveAssemblyReference.cache
+F:\NUML\4th Semester\Work Shop\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.TeacherSide.resources
+F:\NUML\4th Semester\Work Shop\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.Properties.Resources.resources
+F:\NUML\4th Semester\Work Shop\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\TeacherSide.csproj.GenerateResource.Cache
+D:\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.exe
+D:\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.pdb
+D:\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.exe
+D:\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.pdb
+D:\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\ResolveAssemblyReference.cache
+D:\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.TeacherSide.resources
+D:\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.Properties.Resources.resources
+D:\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\TeacherSide.csproj.GenerateResource.Cache
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010-1\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010-1\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010-1\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010-1\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010-1\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\ResolveAssemblyReference.cache
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010-1\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.TeacherSide.resources
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010-1\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.Properties.Resources.resources
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010-1\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\TeacherSide.csproj.GenerateResource.Cache
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\ResolveAssemblyReference.cache
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.TeacherSide.resources
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.Properties.Resources.resources
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\TeacherSide.csproj.GenerateResource.Cache
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.SignIn.resources
+F:\NUML\4th Semester\Work Shop\First Demo on 12 Nov 2010\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.SignUp.resources
+F:\NUML\4th Semester\Work Shop\First Demo Backups\First Demo on 12 Nov 2010-10\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\First Demo Backups\First Demo on 12 Nov 2010-10\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\First Demo Backups\First Demo on 12 Nov 2010-10\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.exe
+F:\NUML\4th Semester\Work Shop\First Demo Backups\First Demo on 12 Nov 2010-10\Project 11 nov 2010\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.pdb
+F:\NUML\4th Semester\Work Shop\First Demo Backups\First Demo on 12 Nov 2010-10\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\ResolveAssemblyReference.cache
+F:\NUML\4th Semester\Work Shop\First Demo Backups\First Demo on 12 Nov 2010-10\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.SignIn.resources
+F:\NUML\4th Semester\Work Shop\First Demo Backups\First Demo on 12 Nov 2010-10\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.SignUp.resources
+F:\NUML\4th Semester\Work Shop\First Demo Backups\First Demo on 12 Nov 2010-10\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.TeacherSide.resources
+F:\NUML\4th Semester\Work Shop\First Demo Backups\First Demo on 12 Nov 2010-10\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.Properties.Resources.resources
+F:\NUML\4th Semester\Work Shop\First Demo Backups\First Demo on 12 Nov 2010-10\Project 11 nov 2010\Haseeb Final\TeacherSide\obj\Debug\TeacherSide.csproj.GenerateResource.Cache
+C:\Users\TT\Desktop\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.exe
+C:\Users\TT\Desktop\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.pdb
+C:\Users\TT\Desktop\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.exe
+C:\Users\TT\Desktop\Haseeb Final\TeacherSide\bin\Debug\Video_Conference.pdb
+C:\Users\TT\Desktop\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.SignIn.resources
+C:\Users\TT\Desktop\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.SignUp.resources
+C:\Users\TT\Desktop\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.TeacherSide.resources
+C:\Users\TT\Desktop\Haseeb Final\TeacherSide\obj\Debug\Video_Conference.Properties.Resources.resources
+C:\Users\TT\Desktop\Haseeb Final\TeacherSide\obj\Debug\TeacherSide.csproj.GenerateResource.Cache
+C:\Users\TT\Desktop\Haseeb Final\TeacherSide\obj\Debug\TeacherSide.csprojResolveAssemblyReference.cache
